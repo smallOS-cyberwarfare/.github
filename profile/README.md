@@ -1,5 +1,6 @@
 # [smallos-cyberwarfare](https://github.com/smallOS-cyberwarfare/smallOS-cyberwarfare)
 
+![smalloscw](https://user-images.githubusercontent.com/56775178/160309717-1587b6c0-7eea-4924-a904-a83eb57be724.png)
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=smallOS-cyberwarfare&color=05C605)
